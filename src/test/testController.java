@@ -11,7 +11,8 @@ public class testController {
 	  testVo vo = new testVo();
 	  vo.setUsrId("123");
 	  vo.setUsrNm("KM");
-	  vo.setUsrLoclNm("À¯");
+	  vo.setUsrLoclNm("KM");
+	  vo.getUsrId();
 	  return vo;
 	 }
 
