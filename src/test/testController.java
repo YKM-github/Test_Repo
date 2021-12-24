@@ -20,6 +20,7 @@ public class testController {
 	  vo.getUsrId();
 	  vo.getUsrNm();
 	  vo.setUsrId("234");
+	  vo.setUsrId("456");
 	  return vo;
 	 }
 
