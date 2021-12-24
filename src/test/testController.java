@@ -16,6 +16,7 @@ public class testController {
 	  vo.getUsrLoclNm();
 	  vo.getUsrLoclNm();
 	  vo.getUsrLoclNm();
+	  
 	  return vo;
 	 }
 
